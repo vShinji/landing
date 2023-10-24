@@ -1,0 +1,9 @@
+.card {
+  background-color: gray;
+  margin: 24px;
+  display: flex;
+}
+
+.card img {
+  width: 245px;
+}

@@ -1,0 +1,13 @@
+.btnplay {
+  background-color: rgb(67 67 234);
+  color: white;
+  border-radius: 5px;
+  display: inline;
+  padding: 10px;
+}
+
+.btnplay:hover {
+  box-shadow: 0px 0px 10px rgb(255, 255, 255);
+  background-color:rgb(0, 0, 161);
+  transition: 0.5s;
+}
